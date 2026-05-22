@@ -23,6 +23,7 @@
 
 ## 笔记文件索引
 - [§1.1 强化学习是什么](notes/01-introduction/1.1-强化学习是什么.md)
+- [§1.1 感悟：目标 vs 训练手段](notes/01-introduction/感悟-1.1.md)
 
 ---
 
