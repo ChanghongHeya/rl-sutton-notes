@@ -1,0 +1,8 @@
+RLbook2020.pdf
+*.pdf
+.DS_Store
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
